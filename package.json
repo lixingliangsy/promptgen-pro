@@ -1,0 +1,43 @@
+{
+  "name": "promptgen-pro",
+  "version": "1.0.0",
+  "description": "AI-powered prompt generator and optimizer",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.27.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@waffo/pancake-ts": "^0.12.0",
+    "next": "^14.0.0",
+    "openai": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "AI",
+    "prompt",
+    "generator",
+    "optimizer",
+    "GPT",
+    "Claude"
+  ],
+  "author": "PromptGen Pro Team",
+  "license": "MIT"
+}

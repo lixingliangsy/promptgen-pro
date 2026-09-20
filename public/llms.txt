@@ -1,0 +1,43 @@
+# PromptGen Pro - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: PromptGen Pro
+- One-line value: PromptGen Pro turns a task description into production-ready AI prompts with variables, examples, and guardrails for ChatGPT, Claude, and APIs.
+- Domain: https://promptgen-pro.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- schema.org — FAQPage: https://schema.org/FAQPage
+- Google Search Central — Structured data: https://developers.google.com/search/docs/appearance/structured-data/intro
+
+## FAQ
+Q1. What is PromptGen Pro?
+A1. PromptGen Pro generates production-ready AI prompts with variables, examples, and guardrails.
+Q2. What do I describe?
+A2. The task you want the model to perform.
+Q3. Which models does it target?
+A3. Prompts suitable for ChatGPT, Claude, and API-style calls.
+Q4. Does it include variables?
+A4. Yes. Variable placeholders make prompts reusable.
+Q5. Who should use it?
+A5. Teams that want structured prompts instead of ad-hoc chat paste.
+Q6. Does it replace evaluation?
+A6. No. It drafts prompts; you still judge outputs for your use case.
+
+## Key pages
+- Home: https://promptgen-pro.lxsaihub.com/
+- Blog index: https://promptgen-pro.lxsaihub.com/blog
+- https://promptgen-pro.lxsaihub.com/blog/production-ready-prompts-with-variables-2026.html
+- https://promptgen-pro.lxsaihub.com/blog/team-prompt-library-vs-chat-paste-2026.html
+- This manifest: https://promptgen-pro.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://promptgen-pro.lxsaihub.com/
